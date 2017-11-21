@@ -1,6 +1,6 @@
 # SymmeTri-Keyboard-Layout
 
-![A basic variant of SymmeTri for 104 US-standard keyboard](https://github.com/WesleyBlancoYuan/SymmeTri-Keyboard-Layout/blob/master/preview/preview-104-smallenter-deadkey-lights.png)
+![A basic variant of SymmeTri for 104 US-standard keyboard](https://github.com/WesleyBlancoYuan/SymmeTri-Keyboard-Layout/blob/master/preview/preview-ANSI104-bigenter-deadkey-lights.png)
                               (A basic variant of SymmeTri for 104 US-standard keyboard)
 
 This full view is created via [keyboard-layout-editor on Gist](http://www.keyboard-layout-editor.com).
