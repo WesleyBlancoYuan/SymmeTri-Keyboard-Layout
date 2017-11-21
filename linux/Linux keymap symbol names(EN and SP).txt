@@ -1,0 +1,56 @@
+Linux keymap symbol names
+
+grave               `
+asciitilde          ~
+exclam              !
+at                  @
+numbersign          #
+dollar              $
+percent             %
+asciicircum         ^
+ampersand           &
+asterisk            *
+parenleft           (
+parenright          )
+minus               -
+equal               =
+underscore          _
+plus                +
+bracketleft         [
+bracketright        ]
+braceleft           {
+braceright          }
+semicolon           ;
+colon               :
+apostrophe          '
+quotedbl            "
+comma               ,
+period              .
+less                <
+greater             >
+slash               /
+question            ?
+backslash           \
+bar                 |
+
+
+---------------------------
+Only for Spanish:
+masculine           º
+ordfeminine         ª
+ccedilla            ç
+Ccedilla            Ç
+ntilde              ñ
+Ntilde              Ñ
+dead_acute          ´
+dead_diaeresis      ¨
+EuroSign            €
+questiondown        ¿
+exclamdown          ¡
+periodcentered      · (between two L, marking "ela geminada")
+notsign             ¬
+guillemotleft       «
+guillemotright      »
+
+
+

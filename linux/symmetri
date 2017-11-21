@@ -1,0 +1,58 @@
+default  partial alphanumeric_keys modifier_keys
+xkb_symbols "basic" {
+
+    name[Group1]= "Chinese, English and Spanish(CN)";
+    // row 1 (E)
+    key <TLDE> {    [     question,     exclam,         masculine,      ordfeminine ]   };
+    key <AE01> {    [     braceleft,    1                                           ]   };
+    key <AE02> {    [     bracketleft,  2,              periodcentered              ]   };
+    key <AE03> {    [     parenleft,    3,              EuroSign                    ]   };
+    key <AE04> {    [     less,         4                                           ]   };
+    key <AE05> {    [     slash,        5                                           ]   };
+    key <AE06> {    [     apostrophe,   quotedbl,       dead_diaeresis              ]   };
+    key <AE07> {    [     equal,        plus                                        ]   };
+    key <AE08> {    [     backslash,    6,              notsign                     ]   };
+    key <AE09> {    [     greater,      7                                           ]   };
+    key <AE10> {    [     parenright,   8                                           ]   };
+    key <AE11> {    [     bracketright, 9,              exclamdown                  ]   };
+    key <AE12> {    [     braceright,   0,              questiondown                ]   };
+    //row 2  (D)
+    key <AD01> {    [     q,            Q                                           ]   };
+    key <AD02> {    [     w,            W                                           ]   };
+    key <AD03> {    [     e,            E                                           ]   };
+    key <AD04> {    [     r,            R                                           ]   };
+    key <AD05> {    [     t,            T                                           ]   };
+    key <AD06> {    [     grave,        asciicircum,    dead_acute                  ]   };
+    key <AD07> {    [     y,            Y                                           ]   };
+    key <AD08> {    [     u,            U                                           ]   };
+    key <AD09> {    [     i,            I                                           ]   };
+    key <AD10> {    [     o,            O                                           ]   };
+    key <AD11> {    [     p,            P                                           ]   };
+    key <AD12> {    [     percent,      at                                          ]   };
+    //row 3, home row (C)
+    key <AC01> {    [     a,            A                                           ]   };
+    key <AC02> {    [     s,            S                                           ]   };
+    key <AC03> {    [     d,            D                                           ]   };
+    key <AC04> {    [     f,            F                                           ]   };
+    key <AC05> {    [     g,            G                                           ]   };
+    key <AC06> {    [     minus,        underscore                                  ]   };
+    key <AC07> {    [     h,            H                                           ]   };
+    key <AC08> {    [     j,            J                                           ]   };
+    key <AC09> {    [     k,            K                                           ]   };
+    key <AC10> {    [     l,            L                                           ]   };
+    key <AC11> {    [     semicolon,    colon,          ntilde,         Ntilde      ]   };
+    //row 4 (B)
+    key <AB01> {    [     z,            Z                                           ]   };
+    key <AB02> {    [     x,            X                                           ]   };
+    key <AB03> {    [     c,            C                                           ]   };
+    key <AB04> {    [     v,            V                                           ]   };
+    key <AB05> {    [     b,            B                                           ]   };
+    key <AB06> {    [     asciitilde,   ampersand                                   ]   };
+    key <AB07> {    [     n,            N                                           ]   };
+    key <AB08> {    [     m,            M                                           ]   };
+    key <AB09> {    [     comma,        numbersign                                  ]   };
+    key <AB10> {    [     period,       asterisk                                    ]   };
+    //home row right most key, the "abandoned child"
+    key <BKSL> {    [     bar,          dollar,         ccedilla,       Ccedilla    ]   };
+};
+
