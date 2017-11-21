@@ -58,7 +58,7 @@ Euro sign:
 ```
 And other punctuations only in Spanish:
 ```
-·¬¡¿ºª´¨
+·¬¡¿ºª´¨«»
 ```
 #### 3.3 Chinese
 We can type Chinese with IMEs like *Microsoft Pinyin* or services like `ibus`, `fcinx`, etc. As long as we have all the 26 letters in English, Chinese input with Pinyin is not a problem. And, for punctuations, apart from the English ones, we have(all full-lengthed):
