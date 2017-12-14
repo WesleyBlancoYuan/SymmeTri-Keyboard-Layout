@@ -96,5 +96,5 @@ So here I only establish one example and two principles: 1) it is better to be s
     [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) or [Karabiner](https://pqrs.org/osx/karabiner/index.html). For problems of not seeing the newly created keyboard layout of Ukelele, refer to [this link](https://superuser.com/questions/665494/how-to-make-a-custom-keyboard-layout-in-os-x).
  
  
-WesternGun, 13/11/2017
+WesternGun, 14/12/2017
 
