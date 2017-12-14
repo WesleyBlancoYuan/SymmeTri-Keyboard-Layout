@@ -89,10 +89,10 @@ So here I only establish one example and two principles: 1) it is better to be s
 
  With different software/registry tweak, it can be used in Windows/Linux/MacOX. 
   - Windows: Microsoft Keyboard Layout Controller 1.4 (aka [MSKLC 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=22339)) and Registry Tricks to swap Function keys. MSKLC 1.4 stays compatible with Windows 10 with 2017 Autumn Creator Update. 
-  - Linux:  **(This file is not completed yet.)**
+  - Linux:  **(This part is not completed yet.)**
     - for virtual console (terminal) keyboard, put `symmetri.map` into `/lib/kbd/keymaps/legacy/i386/`(or `/lib/kbd/keymaps/xkb/`, as you like. All files `/lib/kbd/keymaps/` will be read) and load it with `localectl set-keymap symmetri`.
     - for X11, you must use `symmetri`: put it in `/usr/share/X11/xkb/symbols`. And load it with `setxkbmap symmetri`.
-  - MacOX:  **(This file is not completed yet.)**
+  - MacOX:  **(This part is not completed yet.)**
     [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) or [Karabiner](https://pqrs.org/osx/karabiner/index.html). For problems of not seeing the newly created keyboard layout of Ukelele, refer to [this link](https://superuser.com/questions/665494/how-to-make-a-custom-keyboard-layout-in-os-x).
  
  
